@@ -1,0 +1,26 @@
+{
+  "name": "СамЗнаю — Финансовый навигатор для самозанятых",
+  "short_name": "СамЗнаю",
+  "description": "Калькулятор НПД, сравнение налоговых режимов, генератор документов и трекер доходов для самозанятых",
+  "start_url": "/SiteCalcPRO/",
+  "scope": "/SiteCalcPRO/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "images/mascot-avatar.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
