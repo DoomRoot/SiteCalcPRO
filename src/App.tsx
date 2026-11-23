@@ -12,7 +12,7 @@ import NotFoundPage from './pages/NotFoundPage';
 
 const App: FC = () => {
   return (
-    <BrowserRouter basename="/SiteCalcPRO">
+    <BrowserRouter>
       <Routes>
         <Route element={<Layout />}>
           <Route path="/" element={<HomePage />} />

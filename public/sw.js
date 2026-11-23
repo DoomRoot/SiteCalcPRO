@@ -1,5 +1,5 @@
 const CACHE_NAME = 'samznayu-v1';
-const BASE = '/SiteCalcPRO/';
+const BASE = '/';
 
 const PRECACHE = [
   BASE,
